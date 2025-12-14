@@ -5,8 +5,8 @@
 - Georgia Tech LIDAR Lab Researcher (Prof. Ye Zhao)
 - ex. Seoul National University DYROS Lab Researcher (Prof. Jaeheung Park)
 - Outstanding Thesis Award recipient (1/120)
-- $10,000 Smart Construction Challenge Award winner
-- Robotics and autonomous systems enthusiast
+- $10,000 Smart Robotics Challenge Award winner by Korean Gov.
+- Robotics and AI enthusiast
   
 ### 🛠 &nbsp;Tech Stack
 [![My Languages](https://skillicons.dev/icons?i=python,cpp,pytorch,docker,git,ros)](https://skillicons.dev)
