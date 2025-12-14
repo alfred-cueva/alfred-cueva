@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me <img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= "" width="28" height="28">
-- Hi! I am Alfred Cueva, but I go by Alfie
-- Georgia Institute of Technology MS in Robotics | GPA: 4.0/4.0
+- Hi! I am Alfred Cueva
+- Georgia Tech MS in Robotics | GPA: 4.0/4.0
 - ex. **Samsung** Robotics & ML Software Engineer
 - Georgia Tech LIDAR Lab Researcher (Prof. Ye Zhao)
 - ex. Seoul National University DYROS Lab Researcher (Prof. Jaeheung Park)
