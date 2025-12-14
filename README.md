@@ -33,4 +33,4 @@
 - World models
 - Marathon preparation
 
-- 🌐 Take a look at my website: https://alfred-cueva.github.io/ 
+### 🌐 Take a look at my website: https://alfred-cueva.github.io/ 
