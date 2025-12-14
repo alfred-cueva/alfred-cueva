@@ -32,3 +32,5 @@
 - Vision-Language Models 
 - World models
 - Marathon preparation
+
+- 🌐 Take a look at my website: https://alfred-cueva.github.io/ 
