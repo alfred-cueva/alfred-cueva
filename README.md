@@ -48,9 +48,3 @@ Currently exploring **Vision-Language-Action models, video policy learning and r
 * C++
 * Git / Docker
 * Linux
-
----
-
-## 📊 GitHub Stats
-
-![Alfie's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfred-cueva\&show_icons=true\&theme=tokyonight)
