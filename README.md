@@ -12,7 +12,7 @@ Currently exploring **Vision-Language-Action models, video policy learning and r
 
 * 🌎 Website: https://alfred-cueva.github.io/
 * 💼 LinkedIn: https://www.linkedin.com/in/alfred-cueva/
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 📧 Email: [alfredsito94@gmail.com](mailto:alfredsito94@gmail.com)
 
 ---
 
