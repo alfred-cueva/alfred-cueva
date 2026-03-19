@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Alfie
 
 🤖 **AI & Robotics Master's Student @ Georgia Institute of Technology**
+
+
 🦾 **ex. Samsung Robotics — Robotics & ML Software Engineer**
 
 I work on **robot learning, simulation, control and generative models for embodied intelligence.**
