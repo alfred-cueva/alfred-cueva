@@ -4,8 +4,8 @@
 
 🦾 **ex. Samsung Robotics**
 
-I work on **robot learning, simulation, control and generative models for embodied intelligence.**
-Currently exploring **Vision-Language-Action models, video policy learning and reinforcement learning.**
+I work on robot learning, simulation, control and generative models for embodied intelligence.
+Currently exploring Vision-Language-Action models, video policy learning and reinforcement learning.
 
 ---
 
